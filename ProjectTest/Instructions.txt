@@ -1,0 +1,32 @@
+****INSTRUCTIONS*****
+Author: Deep (A01631525)
+
+Welcome to the DragonMaze Guidelines
+
+This Game is all about a world consisting of Grid and Actors of a Grid 
+viz.. Hero, Dragon, Wall, Exit etc... 
+
+H: Represents a Hero
+D: Represents a Dragon
+k: Represents a Key
+E: Represents the Exit Door
+e: Represents an Energy Drink
+X: Represents a Wall
+
+While moving in the grid, use the following options 
+
+‘l’ to move left,
+‘r’ to move right,
+‘u’ to move up,
+‘d’ to move down,
+‘w’ to skip a turn,
+‘q!’ to quit the maze.
+As the player moves, the time increases.If the player collides with the Dragon,
+or if the Dragon eats it, then the Game is Over. In order to win, the game has to be
+completed within the timelimit. The player has to move in such a Way, so that
+the Dragon would not be able to kill it, as the Dragon will keep on following
+the player, whereever the player moves.
+
+Once the player grabs the key, and passes through the Exit, the game ends successfully.
+
+
